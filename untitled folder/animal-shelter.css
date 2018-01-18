@@ -1,0 +1,24 @@
+body {
+  font-family: cursive;
+}
+
+.animals-individual-wrapper {
+  border: 2px dotted blue;
+}
+
+.animal-name {
+  font-style: italic;
+}
+
+.animals-individual-wrapper img {
+  height: 200px;
+  width: auto;
+}
+
+.animal-description {
+  font-family: monospace;
+}
+
+span {
+  font-family: fantasy;
+}
